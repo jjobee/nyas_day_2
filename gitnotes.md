@@ -18,6 +18,6 @@ need to `git add` before `git commit` each time
 ---
 
 ### Tracking Changes
-change
+* `git diff`: shows changes not yet tracked
 
 
