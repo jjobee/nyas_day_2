@@ -14,7 +14,7 @@ LaTex works here too
 * `git status`: tells us status of repository
 * `git add`: adds files to be tracked
 * `git commit`: dedicate myself to version
-
+need to `git add` before `git commit` each time
 ---
 
 ### Tracking Changes
