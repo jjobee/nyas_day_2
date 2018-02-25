@@ -18,7 +18,6 @@ need to `git add` before `git commit` each time
 ---
 
 ### Tracking Changes
-changed file again
-need to make this different
+
 
 
