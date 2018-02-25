@@ -11,3 +11,11 @@ what is ``two`` three```three```
 $$f(x)=x^2$$
 LaTex works here too
 * `git init`: initializes repository
+* `git status`: tells us status of repository
+* `git add`: adds files to be tracked
+* `git commit`: dedicate myself to version
+
+---
+
+### Tracking Changes
+
